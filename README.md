@@ -1,2 +1,1 @@
-My first readme is
-being updated
+My first readme getting in shape
